@@ -1,0 +1,153 @@
+student_id,name,age,tuition_fee,major
+1,John Doe,21,15000,Engineering
+2,Jane Smith,20,16000,Mathematics
+3,Alice Johnson,22,14000,History
+4,Chris Lee,23,17000,Computer Science
+5,Eva Brown,21,15500,Psychology
+6,Mike Davis,24,18000,Biology
+7,Anna Wilson,22,16500,Engineering
+8,James Taylor,20,16000,Marketing
+9,Emily Clark,21,15000,English Literature
+10,Michael Johnson,23,17000,Physics
+11,David Miller,22,15500,Chemistry
+12,Sarah Brown,20,16000,Economics
+13,Robert Wilson,24,17500,Political Science
+14,Laura Martinez,21,16000,Engineering
+15,Daniel White,22,16500,Art History
+16,Olivia Davis,23,17000,Sociology
+17,Kevin Johnson,21,15500,Electrical Engineering
+18,Jessica Lee,22,16000,Communications
+19,Benjamin Clark,23,17500,Business Administration
+20,Samantha Taylor,24,18000,Nursing
+21,Alex Anderson,22,16500,Computer Engineering
+22,Amanda Garcia,20,16000,Music
+23,Ryan Thomas,21,15000,Philosophy
+24,Julia Robinson,23,17000,Finance
+25,Eric Brown,22,16500,Chemical Engineering
+26,Lily Green,20,16000,Anthropology
+27,Matthew Hall,21,15500,Environmental Science
+28,Maria Lopez,24,17500,Theater
+29,William Adams,23,17000,Graphic Design
+30,Chloe Baker,21,15000,Health Sciences
+31,Michael Brown,22,16500,Industrial Engineering
+32,Sophia Martinez,20,16000,Linguistics
+33,Andrew Wilson,21,15500,Geology
+34,Emily Johnson,24,18000,Education
+35,Jason Lee,22,16500,Public Health
+36,Mia Davis,20,16000,International Relations
+37,Christopher Johnson,23,17000,Architecture
+38,Isabella Clark,21,15000,Law
+39,Joshua Taylor,22,16500,Mathematics
+40,Grace Adams,24,17500,Computer Science
+41,Nathan Miller,20,16000,Engineering
+42,Olivia Garcia,21,15500,Biology
+43,Benjamin Anderson,22,16500,Psychology
+44,Ava White,23,17000,English Literature
+45,David Thomas,20,16000,Chemistry
+46,Sophie Robinson,21,15000,Economics
+47,Logan Martinez,22,16500,Political Science
+48,Alyssa Brown,24,18000,Engineering
+49,Ethan Wilson,20,16000,Physics
+50,Zoe Johnson,21,15500,Marketing
+51,Liam Davis,23,17000,History
+52,Emma Wilson,22,16500,Computer Engineering
+53,Mason Brown,20,16000,Art History
+54,Hannah Miller,21,15000,Sociology
+55,William Thomas,24,17500,Electrical Engineering
+56,Oliver Davis,22,16500,Communications
+57,Ella Brown,23,17000,Business Administration
+58,Lucas Taylor,20,16000,Nursing
+59,Grace Johnson,21,15500,Computer Engineering
+60,Ava Adams,22,16500,Chemical Engineering
+61,Noah Wilson,24,18000,Environmental Science
+62,Sophia Clark,20,16000,Music
+63,Ella Martinez,21,15500,Philosophy
+64,Aiden Anderson,22,16500,Finance
+65,Chloe White,23,17000,Political Science
+66,Liam Garcia,20,16000,Anthropology
+67,Emma Adams,21,15000,Electrical Engineering
+68,Mason Wilson,22,16500,Chemistry
+69,Hannah Davis,24,17500,Architecture
+70,William Martinez,20,16000,Law
+71,Olivia Brown,21,15500,Mathematics
+72,Charlotte Miller,22,16500,Engineering
+73,Ethan Thomas,23,17000,Biology
+74,Sophia White,24,18000,Psychology
+75,Lucas Johnson,20,16000,English Literature
+76,Amelia Brown,21,15000,Computer Science
+77,Jack Taylor,22,16500,Industrial Engineering
+78,Oliver Adams,23,17000,Linguistics
+79,Isabella Garcia,24,17500,Geology
+80,Liam Clark,20,16000,Public Health
+81,Emma Lee,21,15500,International Relations
+82,Michael Wilson,22,16500,Architecture
+83,Sophie Taylor,23,17000,Graphic Design
+84,Alexander Brown,24,18000,Health Sciences
+85,Ava Miller,20,16000,Theater
+86,Samantha Thomas,21,15000,Environmental Science
+87,Joshua Martinez,22,16500,Graphic Design
+88,Olivia Adams,23,17000,Computer Science
+89,Matthew Robinson,24,17500,Engineering
+90,Emily Clark,20,16000,Political Science
+91,David Baker,21,15500,Education
+92,Sarah Hall,22,16500,Business Administration
+93,Robert Green,23,17000,Nursing
+94,Laura Thomas,24,18000,Computer Engineering
+95,Daniel Robinson,20,16000,Mathematics
+96,Olivia Adams,21,15000,Engineering
+97,Kevin Lee,22,16500,Psychology
+98,Jessica Davis,23,17000,English Literature
+99,Benjamin Wilson,24,17500,Chemistry
+100,Samantha Martinez,20,16000,Economics
+101,Alex Anderson,21,15500,Political Science
+102,Amanda Garcia,22,16500,Computer Science
+103,Ryan Taylor,23,17000,Architecture
+104,Julia Clark,24,18000,Graphic Design
+105,Eric Miller,20,16000,Engineering
+106,Lily Brown,21,15000,Computer Engineering
+107,Matthew Garcia,22,16500,Chemical Engineering
+108,Maria White,23,17000,Environmental Science
+109,William Davis,24,17500,Music
+110,Chloe Adams,20,16000,Philosophy
+111,Michael Brown,21,15500,Chemistry
+112,Sophia Martinez,22,16500,Mathematics
+113,Andrew Wilson,23,17000,Engineering
+114,Emily Johnson,24,18000,Sociology
+115,Jason Lee,20,16000,Political Science
+116,Mia Davis,21,15000,Public Health
+117,Christopher Johnson,22,16500,International Relations
+118,Isabella Clark,23,17000,Computer Science
+119,Joshua Taylor,24,17500,Engineering
+120,Grace Adams,20,16000,Biology
+121,Nathan Miller,21,15500,Marketing
+122,Olivia Garcia,22,16500,Computer Engineering
+123,Benjamin Anderson,23,17000,History
+124,Ava White,24,18000,Political Science
+125,David Thomas,20,16000,Finance
+126,Sophie Robinson,21,15000,Engineering
+127,Logan Martinez,22,16500,Music
+128,Alyssa Brown,23,17000,Psychology
+129,Ethan Wilson,24,17500,English Literature
+130,Zoe Johnson,20,16000,Computer Science
+131,Liam Davis,21,15500,Electrical Engineering
+132,Emma Wilson,22,16500,Communications
+133,Mason Brown,23,17000,Business Administration
+134,Hannah Miller,24,18000,Nursing
+135,William Thomas,20,16000,Computer Engineering
+136,Oliver Davis,21,15000,Chemical Engineering
+137,Charlotte Wilson,22,16500,Environmental Science
+138,Elijah Martinez,23,17000,Music
+139,Sophia Brown,24,17500,Philosophy
+140,Lucas Adams,20,16000,Political Science
+141,Isabella Thomas,21,15500,Law
+142,Noah Adams,22,16500,Mathematics
+143,Ava Clark,23,17000,Engineering
+144,Hannah Miller,24,18000,Computer Science
+145,William Thomas,20,16000,Psychology
+146,Oliver Robinson,21,15000,Electrical Engineering
+147,Charlotte Johnson,22,16500,History
+148,Elijah Garcia,23,17000,Chemistry
+149,Sophia Adams,24,17500,Political Science
+150,Jack Martinez,20,16000,Engineering
+151,Olivia Brown,21,15500,Communications
+152,Liam Taylor,22,16500,Business Administration

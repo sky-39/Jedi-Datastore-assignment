@@ -9,6 +9,10 @@ def get_data(key):
 def put_data(key, value):
     mc.set(key, value)
 
+def delete_data(key):
+    mc.delete(key)
+
+
 if __name__ == "__main__":
     key = "test_key"
     value = "test_value"
@@ -22,4 +26,5 @@ if __name__ == "__main__":
         print(f"Retrieved value for key: {key} is {retrieved_value}")
     else:
         print(f"No value found for key: {key}")
+
     

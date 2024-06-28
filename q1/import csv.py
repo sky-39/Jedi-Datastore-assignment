@@ -79,7 +79,7 @@ def read_csv_with_filter(file_path, filter_criteria, page_number=1, page_size=50
         
         return page_rows
 
-# Example usage:
+# Usage:
 file_path = 'data.csv'
 filter_criteria = '((major == "Engineering") and (age != 45)) or (tuition_fee <= 16000)'
 page_number = 1
@@ -90,51 +90,6 @@ for row in rows:
     print(row)
 
 
-
-
-# # Additional filter criteria examples
-
-# # Filter by Department and Age Range
-# filter_criteria = '(department == "Marketing") and (age >= 30) and (age <= 40)'
-# rows = read_csv_with_filter(file_path, filter_criteria, page_number, page_size)
-# print("Filter by Department and Age Range:")
-# for row in rows:
-#     print(row)
-# print()
-
-# # Filter by Salary and Exclude a Specific Department
-# filter_criteria = '(salary > 70000) and (department != "HR")'
-# rows = read_csv_with_filter(file_path, filter_criteria, page_number, page_size)
-# print("Filter by Salary and Exclude a Specific Department:")
-# for row in rows:
-#     print(row)
-# print()
-
-# # Filter by Multiple Departments and Age
-# filter_criteria = '((department == "Engineering") or (department == "Sales")) and (age < 35)'
-# rows = read_csv_with_filter(file_path, filter_criteria, page_number, page_size)
-# print("Filter by Multiple Departments and Age:")
-# for row in rows:
-#     print(row)
-# print()
-
-# # Filter by Name Length and Salary Range
-# filter_criteria = '(len(name) > 8) and (salary >= 50000) and (salary <= 100000)'
-# rows = read_csv_with_filter(file_path, filter_criteria, page_number, page_size)
-# print("Filter by Name Length and Salary Range:")
-# for row in rows:
-#     print(row)
-# print()
-
-# # Filter by Exact Name and Department
-# filter_criteria = '(name == "John Doe") and (department == "Engineering")'
-# rows = read_csv_with_filter(file_path, filter_criteria, page_number, page_size)
-# print("Filter by Exact Name and Department:")
-# for row in rows:
-#     print(row)
-# print()
-
-# Complex Nested Conditions
 filter_criteria = '((major == "Engineering") and (age != 45)) or (tuition_fee <= 60000)'
 rows = read_csv_with_filter(file_path, filter_criteria, page_number, page_size)
 print("Complex Nested Conditions:")
